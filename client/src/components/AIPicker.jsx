@@ -6,4 +6,4 @@ function AIPicker() {
   )
 }
 
-export default AIPicker
+export default AIPicker;
